@@ -3,6 +3,7 @@ Aplicație mobilă/desktop pentru citirea informațiilor referitoare la TVA / bi
 
 
 Surse de date ANAF
+
 ● https://www.anaf.ro/anaf/internet/ANAF/servicii_online/servicii_web_anaf
 din care
 1. Serviciu web pentru obţinerea informaţiilor publice din situaţiile financiare/raportările
@@ -23,5 +24,6 @@ https://webservicesp.anaf.ro/PlatitorTvaRest/api/v6/ws/tva
 https://webservicesp.anaf.ro/AsynchWebService/api/v6/ws/tva
 
 Articole
+
 ● [Tutorial: Using the REST Client Library to Access REST-based Web Services - RAD Studio](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Tutorial:_Using_the_REST_Client_Library_to_Access_REST-based_Web_Services)
 ● [Everything You Need To Use REST In Your Apps Now](https://blogs.embarcadero.com/everything-you-need-to-use-rest-in-your-apps-now/)
