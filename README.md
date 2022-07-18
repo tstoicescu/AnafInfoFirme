@@ -21,6 +21,7 @@ data de 15.11.2021
 https://webservicesp.anaf.ro/PlatitorTvaRest/api/v6/ws/tva
 4. URL serviciu web asincron actualizat:
 https://webservicesp.anaf.ro/AsynchWebService/api/v6/ws/tva
+
 Articole
 ● [Tutorial: Using the REST Client Library to Access REST-based Web Services - RAD Studio](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Tutorial:_Using_the_REST_Client_Library_to_Access_REST-based_Web_Services)
 ● [Everything You Need To Use REST In Your Apps Now](https://blogs.embarcadero.com/everything-you-need-to-use-rest-in-your-apps-now/)
